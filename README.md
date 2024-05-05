@@ -1,3 +1,4 @@
 # ECE557
-ECE557 Labs \
-Lab 1 completion mark. Labs 2, 3, 4 all files are here.
+ECE557 Labs <br/><br/>
+Lab 1 was just a completion mark.<br/>
+All files for labs 2, 3 and 4 are included here.
